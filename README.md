@@ -1,1 +1,1 @@
-# easywofihack
+# easywifihack
